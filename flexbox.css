@@ -24,7 +24,7 @@ body{
 
 .container>* {
     border: 2px solid green;
-    background-color: aquamarine;
+    background-color: rgb(211, 77, 157);
     padding: 10px;
     
 }
